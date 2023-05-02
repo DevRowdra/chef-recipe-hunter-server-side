@@ -1,0 +1,85 @@
+[
+    {
+      "chef_id": 1001,
+      "chef_picture": "https://example.com/chef1.jpg",
+      "chef_name": "Jenny Smith",
+      "years_of_experience": 8,
+      "num_recipes": 64,
+      "likes": 23000,
+      "short_bio": "Jenny Smith is a classically trained chef who specializes in French cuisine. She worked at several Michelin-starred restaurants in Paris before moving to New York to open her own restaurant."
+    },
+    {
+      "chef_id": 1002,
+      "chef_picture": "https://example.com/chef2.jpg",
+      "chef_name": "Juan Rodriguez",
+      "years_of_experience": 12,
+      "num_recipes": 128,
+      "likes": 45000,
+      "short_bio": "Juan Rodriguez is a Mexican chef who draws inspiration from his mother's cooking. He has worked at several high-end restaurants in Mexico City and now owns a popular taqueria in Los Angeles."
+    },
+    {
+      "chef_id": 1003,
+      "chef_picture": "https://example.com/chef3.jpg",
+      "chef_name": "Emily Chen",
+      "years_of_experience": 6,
+      "num_recipes": 40,
+      "likes": 12000,
+      "short_bio": "Emily Chen is a Chinese-American chef who specializes in fusion cuisine. She has worked in some of the top restaurants in San Francisco and now runs her own pop-up restaurant."
+    },
+    {
+      "chef_id": 1004,
+      "chef_picture": "https://example.com/chef4.jpg",
+      "chef_name": "Mohammed Ali",
+      "years_of_experience": 15,
+      "num_recipes": 93,
+      "likes": 78000,
+      "short_bio": "Mohammed Ali is an Egyptian chef who is passionate about Middle Eastern cuisine. He has worked at several restaurants in Cairo and now owns a popular Middle Eastern restaurant in London."
+    },
+    {
+      "chef_id": 1005,
+      "chef_picture": "https://example.com/chef5.jpg",
+      "chef_name": "Grace Kim",
+      "years_of_experience": 10,
+      "num_recipes": 75,
+      "likes": 32000,
+      "short_bio": "Grace Kim is a Korean-American chef who specializes in Korean fusion cuisine. She has worked at some of the top restaurants in Los Angeles and now runs her own food truck."
+    },
+    {
+      "chef_id": 1006,
+      "chef_picture": "https://example.com/chef6.jpg",
+      "chef_name": "Carlos Gonzalez",
+      "years_of_experience": 9,
+      "num_recipes": 56,
+      "likes": 18000,
+      "short_bio": "Carlos Gonzalez is a Mexican chef who specializes in regional cuisine from Oaxaca. He has worked at several top restaurants in Mexico and now owns a popular Mexican restaurant in Chicago."
+    },
+    {
+      "chef_id": 1007,
+      "chef_picture": "https://example.com/chef7.jpg",
+      "chef_name": "Anna Lee",
+      "years_of_experience": 11,
+      "num_recipes": 87,
+      "likes": 54000,
+      "short_bio": "Anna Lee is a Korean chef who is passionate about traditional Korean cuisine. She has worked at some of the top restaurants in Seoul and now owns a popular Korean restaurant in New York City."
+    },
+    {
+        "chef_id": 1008,
+        "chef_picture": "https://example.com/chef8.jpg",
+        "chef_name": "Luca Rossi",
+        "years_of_experience": 7,
+        "num_recipes": 62,
+        "likes": 28000,
+        "short_bio": "Luca Rossi is an Italian chef who specializes in Tuscan cuisine. He has worked at several top restaurants in Florence and now owns a popular Italian restaurant in San Francisco."
+      },
+      {
+        "chef_id": 1009,
+        "chef_picture": "https://example.com/chef9.jpg",
+        "chef_name": "Maggie Chen",
+        "years_of_experience": 5,
+        "num_recipes": 33,
+        "likes": 11000,
+        "short_bio": "Maggie Chen is a Chinese chef who is passionate about Sichuan cuisine. She has worked at some of the top restaurants in Chengdu and now owns a popular Sichuan restaurant in Vancouver."
+      }
+    ]
+    
+  
