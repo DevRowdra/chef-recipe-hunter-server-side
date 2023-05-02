@@ -11,6 +11,11 @@ app.get('/', (req, res) => {
   app.get('/chef',(req,res)=>{
     res.send(chef)
   })
+  app.get('/chef/:id',(req,res)=>{
+    const id=req.params.id
+    const singleChef=chef.find(cf=>cf.chef_id == id)
+    res.send(singleChef)
+  })
   app.listen(port, () => {
     console.log(` port on ${port}`)
   })
