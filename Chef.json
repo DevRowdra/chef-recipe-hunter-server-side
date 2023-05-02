@@ -1,7 +1,7 @@
 [
     {
       "chef_id": 1001,
-      "chef_picture": "https://example.com/chef1.jpg",
+      "chef_picture": "https://media.licdn.com/dms/image/C5603AQGLluqwuKFG9g/profile-displayphoto-shrink_800_800/0/1642929855353?e=2147483647&v=beta&t=GpBjvpRaF-8LcIrNfILexr5GuiqfLfFjbc1lECCmf6k",
       "chef_name": "Jenny Smith",
       "years_of_experience": 8,
       "num_recipes": 64,
@@ -10,8 +10,8 @@
     },
     {
       "chef_id": 1002,
-      "chef_picture": "https://example.com/chef2.jpg",
-      "chef_name": "Juan Rodriguez",
+      "chef_picture": "https://media.licdn.com/dms/image/C5603AQFr8PXxAXTNeQ/profile-displayphoto-shrink_800_800/0/1603425974500?e=2147483647&v=beta&t=v2K1gOMEnpkOIjdkC_SP5sVw1qsVZHovKO0WFKJp0PM",
+      "chef_name": "Juan Saha",
       "years_of_experience": 12,
       "num_recipes": 128,
       "likes": 45000,
@@ -19,8 +19,8 @@
     },
     {
       "chef_id": 1003,
-      "chef_picture": "https://example.com/chef3.jpg",
-      "chef_name": "Emily Chen",
+      "chef_picture": "https://prod-media-eng.dhakatribune.com/uploads/2020/11/unnamed-1605803129906.jpg",
+      "chef_name": "Emon chyd",
       "years_of_experience": 6,
       "num_recipes": 40,
       "likes": 12000,
@@ -28,7 +28,7 @@
     },
     {
       "chef_id": 1004,
-      "chef_picture": "https://example.com/chef4.jpg",
+      "chef_picture": "https://media.licdn.com/dms/image/D5603AQEP1NGaBLMAew/profile-displayphoto-shrink_800_800/0/1665861249872?e=2147483647&v=beta&t=IN8jIpTW1BnhSCWhc4m9zKll5TKZe3GEz9r8xQLdZz0",
       "chef_name": "Mohammed Ali",
       "years_of_experience": 15,
       "num_recipes": 93,
@@ -37,8 +37,8 @@
     },
     {
       "chef_id": 1005,
-      "chef_picture": "https://example.com/chef5.jpg",
-      "chef_name": "Grace Kim",
+      "chef_picture": "https://media.licdn.com/dms/image/C4E03AQH35WkmWvLQbQ/profile-displayphoto-shrink_800_800/0/1629833143364?e=2147483647&v=beta&t=5CW4MRMhE0Grn92FFHA_wu_jIbSfSE1jdAwMVQIz2rw",
+      "chef_name": "Md Mahbubul Alom ",
       "years_of_experience": 10,
       "num_recipes": 75,
       "likes": 32000,
@@ -46,8 +46,8 @@
     },
     {
       "chef_id": 1006,
-      "chef_picture": "https://example.com/chef6.jpg",
-      "chef_name": "Carlos Gonzalez",
+      "chef_picture": "https://media.licdn.com/dms/image/D5603AQHkkcBMQLG_4g/profile-displayphoto-shrink_800_800/0/1681675359692?e=2147483647&v=beta&t=EePGB2out_Xgs8m9y5CNFGH6hysMDaNp8wlAfQeIZ7k",
+      "chef_name": "Md. Mahadi Hasan",
       "years_of_experience": 9,
       "num_recipes": 56,
       "likes": 18000,
@@ -55,31 +55,14 @@
     },
     {
       "chef_id": 1007,
-      "chef_picture": "https://example.com/chef7.jpg",
-      "chef_name": "Anna Lee",
+      "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJyEEtosx0F6QwbRGd2wolYZEJ9OUF6_jJ624YE40OVvJ_DKTsiVdePHi6DJZwb01qmkU&usqp=CAU",
+      "chef_name": "Md Bariul Islam",
       "years_of_experience": 11,
       "num_recipes": 87,
       "likes": 54000,
       "short_bio": "Anna Lee is a Korean chef who is passionate about traditional Korean cuisine. She has worked at some of the top restaurants in Seoul and now owns a popular Korean restaurant in New York City."
-    },
-    {
-        "chef_id": 1008,
-        "chef_picture": "https://example.com/chef8.jpg",
-        "chef_name": "Luca Rossi",
-        "years_of_experience": 7,
-        "num_recipes": 62,
-        "likes": 28000,
-        "short_bio": "Luca Rossi is an Italian chef who specializes in Tuscan cuisine. He has worked at several top restaurants in Florence and now owns a popular Italian restaurant in San Francisco."
-      },
-      {
-        "chef_id": 1009,
-        "chef_picture": "https://example.com/chef9.jpg",
-        "chef_name": "Maggie Chen",
-        "years_of_experience": 5,
-        "num_recipes": 33,
-        "likes": 11000,
-        "short_bio": "Maggie Chen is a Chinese chef who is passionate about Sichuan cuisine. She has worked at some of the top restaurants in Chengdu and now owns a popular Sichuan restaurant in Vancouver."
-      }
+    }
+    
     ]
     
   
