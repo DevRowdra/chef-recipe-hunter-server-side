@@ -2,6 +2,7 @@ const express = require('express')
 const app = express()
 const chef=require('./Chef.json')
 const recipe=require('./Recipe.json')
+const categories=require('./Categories.json')
 cors = require('cors')
 const port = 3000
 app.use(cors())
@@ -11,6 +12,9 @@ app.get('/', (req, res) => {
   
   app.get('/chef',(req,res)=>{
     res.send(chef)
+  })
+  app.get('/categories',(req,res)=>{
+    res.send(categories)
   })
   app.get('/chef/:id',(req,res)=>{
     const id=req.params.id

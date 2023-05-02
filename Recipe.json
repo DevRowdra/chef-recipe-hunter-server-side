@@ -1,177 +1,242 @@
 [
-    { "chef_id": 1001,
-    "recipe_img": "https://example.com/chef7.jpg",
-      "recipe_name": "Classic Spaghetti Carbonara",
-      "ingredients": ["spaghetti", "pancetta", "eggs", "parmesan cheese", "black pepper"],
-      "cooking_method": "1. Cook spaghetti according to package instructions. 2. Cook pancetta until crispy in a pan. 3. Whisk together eggs, parmesan cheese, and black pepper. 4. Drain spaghetti and add to the pan with the pancetta. 5. Remove from heat and add the egg mixture. Stir until the eggs are cooked and the sauce is creamy.",
-      "rating": 4.5,
-      "serving_size": 4,
-      "cooking_time": 20
-    },
-    {"chef_id": 1001,
-    "recipe_img": "https://example.com/chef7.jpg",
-      "recipe_name": "Beef Stir Fry",
-      "ingredients": ["beef", "broccoli", "carrots", "onions", "soy sauce"],
-      "cooking_method": "1. Cut beef into thin strips. 2. Cut broccoli and carrots into small pieces. 3. Slice onions. 4. Stir fry beef in a pan until browned. 5. Add vegetables and stir fry until cooked. 6. Add soy sauce and stir fry for another minute.",
-      "rating": 4.2,
-      "serving_size": 4,
-      "cooking_time": 25
-    },
-    {"chef_id": 1001, "recipe_img": "https://example.com/chef7.jpg",
-      "recipe_name": "Chicken Caesar Salad",
-      "ingredients": ["chicken breast", "romaine lettuce", "croutons", "parmesan cheese", "Caesar dressing"],
-      "cooking_method": "1. Cook chicken breast until browned. 2. Cut romaine lettuce into bite-sized pieces. 3. Add croutons and parmesan cheese to the lettuce. 4. Slice chicken breast and add to the salad. 5. Toss the salad with Caesar dressing.",
-      "rating": 4.8,
-      "serving_size": 4,
-      "cooking_time": 15
-    },
-    {"chef_id": 1002, "recipe_img": "https://example.com/chef7.jpg",
-      "recipe_name": "Spicy Shrimp Linguine",
-      "ingredients": ["linguine", "shrimp", "tomatoes", "garlic", "red pepper flakes"],
-      "cooking_method": "1. Cook linguine according to package instructions. 2. Heat olive oil in a pan and cook garlic until fragrant. 3. Add tomatoes and red pepper flakes and cook until tomatoes break down. 4. Add shrimp and cook until pink. 5. Toss linguine with the shrimp and tomato sauce.",
-      "rating": 4.6,
-      "serving_size": 4,
-      "cooking_time": 30
-    },
-    {"chef_id": 1002, "recipe_img": "https://example.com/chef7.jpg",
-      "recipe_name": "Vegetable Fried Rice",
-      "ingredients": ["rice", "carrots", "peas", "corn", "soy sauce"],
-      "cooking_method": "1. Cook rice according to package instructions. 2. Dice carrots into small pieces. 3. Add peas and corn to the pan with the carrots and cook until tender. 4. Add rice to the pan and stir fry until heated through. 5. Add soy sauce and stir fry for another minute.",
-      "rating": 4.0,
-      "serving_size": 4,
-      "cooking_time": 25
-    }
-    ,
-    
-        {"chef_id": 1002, "recipe_img": "https://example.com/chef7.jpg",
-          "recipe_name": "Roasted Chicken and Vegetables",
-          "ingredients": ["chicken thighs", "potatoes", "carrots", "green beans", "garlic"],
-          "cooking_method": "1. Preheat oven to 425°F. 2. Cut potatoes and carrots into bite-sized pieces. 3. Spread vegetables and garlic on a baking sheet. 4. Season chicken thighs with salt and pepper and place on top of vegetables. 5. Roast for 35-40 minutes or until chicken is cooked through.",
-          "rating": 4.4,
-          "serving_size": 4,
-          "cooking_time": 45
-        },
-        {"chef_id": 1003, "recipe_img": "https://example.com/chef7.jpg",
-          "recipe_name": "Pesto Pasta",
-          "ingredients": ["pasta", "basil", "garlic", "pine nuts", "parmesan cheese"],
-          "cooking_method": "1. Cook pasta according to package instructions. 2. Blend basil, garlic, pine nuts, and parmesan cheese in a food processor until smooth. 3. Toss pasta with pesto sauce.",
-          "rating": 4.9,
-          "serving_size": 4,
-          "cooking_time": 20
-        },
-        {"chef_id": 1003, "recipe_img": "https://example.com/chef7.jpg",
-          "recipe_name": "Beef Tacos",
-          "ingredients": ["beef", "taco shells", "lettuce", "tomatoes", "cheddar cheese"],
-          "cooking_method": "1. Brown beef in a pan. 2. Add taco seasoning and cook until beef is fully cooked. 3. Heat taco shells in the oven. 4. Chop lettuce and tomatoes. 5. Assemble tacos with beef, lettuce, tomatoes, and cheddar cheese.",
-          "rating": 4.3,
-          "serving_size": 4,
-          "cooking_time": 30
-        },
-        {"chef_id": 1003, "recipe_img": "https://example.com/chef7.jpg",
-          "recipe_name": "Tomato Soup",
-          "ingredients": ["tomatoes", "onions", "garlic", "vegetable broth", "cream"],
-          "cooking_method": "1. Cook onions and garlic until soft. 2. Add chopped tomatoes and cook until they break down. 3. Add vegetable broth and simmer for 20 minutes. 4. Blend soup in a blender until smooth. 5. Stir in cream and heat until warm.",
-          "rating": 4.7,
-          "serving_size": 4,
-          "cooking_time": 40
-        },
-        {"chef_id": 1004, "recipe_img": "https://example.com/chef7.jpg",
-          "recipe_name": "Lemon Garlic Shrimp",
-          "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
-          "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
-          "rating": 4.1,
-          "serving_size": 4,
-          "cooking_time": 15
-        }
-       , {"chef_id": 1004, "recipe_img": "https://example.com/chef7.jpg",
-          "recipe_name": "Lemon Garlic Shrimp",
-          "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
-          "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
-          "rating": 4.1,
-          "serving_size": 4,
-          "cooking_time": 15
-        }
-       , {"chef_id": 1004, "recipe_img": "https://example.com/chef7.jpg",
-          "recipe_name": "Lemon Garlic Shrimp",
-          "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
-          "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
-          "rating": 4.1,
-          "serving_size": 4,
-          "cooking_time": 15
-        }
-       , {"chef_id": 1005, "recipe_img": "https://example.com/chef7.jpg",
-          "recipe_name": "Lemon Garlic Shrimp",
-          "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
-          "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
-          "rating": 4.1,
-          "serving_size": 4,
-          "cooking_time": 15
-        }
-       , {"chef_id": 1005, "recipe_img": "https://example.com/chef7.jpg",
-          "recipe_name": "Lemon Garlic Shrimp",
-          "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
-          "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
-          "rating": 4.1,
-          "serving_size": 4,
-          "cooking_time": 15
-        }
-       , {"chef_id": 1005, "recipe_img": "https://example.com/chef7.jpg",
-          "recipe_name": "Lemon Garlic Shrimp",
-          "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
-          "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
-          "rating": 4.1,
-          "serving_size": 4,
-          "cooking_time": 15
-        }
-       , {"chef_id": 1006, "recipe_img": "https://example.com/chef7.jpg",
-          "recipe_name": "Lemon Garlic Shrimp",
-          "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
-          "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
-          "rating": 4.1,
-          "serving_size": 4,
-          "cooking_time": 15
-        }
-       , {"chef_id": 1006, "recipe_img": "https://example.com/chef7.jpg",
-          "recipe_name": "Lemon Garlic Shrimp",
-          "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
-          "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
-          "rating": 4.1,
-          "serving_size": 4,
-          "cooking_time": 15
-        }
-       , {"chef_id": 1006, "recipe_img": "https://example.com/chef7.jpg",
-          "recipe_name": "Lemon Garlic Shrimp",
-          "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
-          "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
-          "rating": 4.1,
-          "serving_size": 4,
-          "cooking_time": 15
-        }
-       , {"chef_id": 1007, "recipe_img": "https://example.com/chef7.jpg",
-          "recipe_name": "Lemon Garlic Shrimp",
-          "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
-          "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
-          "rating": 4.1,
-          "serving_size": 4,
-          "cooking_time": 15
-        }
-       , {"chef_id": 1007, "recipe_img": "https://example.com/chef7.jpg",
-          "recipe_name": "Lemon Garlic Shrimp",
-          "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
-          "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
-          "rating": 4.1,
-          "serving_size": 4,
-          "cooking_time": 15
-        }
-       , {"chef_id": 1007, "recipe_img": "https://example.com/chef7.jpg",
-          "recipe_name": "Lemon Garlic Shrimp",
-          "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
-          "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
-          "rating": 4.1,
-          "serving_size": 4,
-          "cooking_time": 15
-        }
-      
-      
-  ]
-  
+  {
+    "chef_id": 1001,
+    "recipe_img": "https://cdn.tasteatlas.com//images/dishes/0b325cd0cd244541be20a0c5e6a32e62.jpg?w=375&h=280",
+    "recipe_name": "Classic Spaghetti Carbonara",
+    "ingredients": [
+      "spaghetti",
+      "pancetta",
+      "eggs",
+      "parmesan cheese",
+      "black pepper"
+    ],
+    "cooking_method": "1. Cook spaghetti according to package instructions. 2. Cook pancetta until crispy in a pan. 3. Whisk together eggs, parmesan cheese, and black pepper. 4. Drain spaghetti and add to the pan with the pancetta. 5. Remove from heat and add the egg mixture. Stir until the eggs are cooked and the sauce is creamy.",
+    "rating": 4.5,
+    "serving_size": 4,
+    "cooking_time": 20
+  },
+  {
+    "chef_id": 1001,
+    "recipe_img": "https://travelfoodatlas.com/wp-content/uploads/2018/02/Chorchori.jpg",
+    "recipe_name": "Beef Stir Fry",
+    "ingredients": ["beef", "broccoli", "carrots", "onions", "soy sauce"],
+    "cooking_method": "1. Cut beef into thin strips. 2. Cut broccoli and carrots into small pieces. 3. Slice onions. 4. Stir fry beef in a pan until browned. 5. Add vegetables and stir fry until cooked. 6. Add soy sauce and stir fry for another minute.",
+    "rating": 4.2,
+    "serving_size": 4,
+    "cooking_time": 25
+  },
+  {
+    "chef_id": 1001,
+    "recipe_img": "https://www.chefspencil.com/wp-content/uploads/Haleem-960x960.jpg",
+    "recipe_name": "Haleem",
+    "ingredients": [
+      "chicken breast",
+      "romaine lettuce",
+      "croutons",
+      "parmesan cheese",
+      "Caesar dressing"
+    ],
+    "cooking_method": "1. Cook chicken breast until browned. 2. Cut romaine lettuce into bite-sized pieces. 3. Add croutons and parmesan cheese to the lettuce. 4. Slice chicken breast and add to the salad. 5. Toss the salad with Caesar dressing.",
+    "rating": 4.8,
+    "serving_size": 4,
+    "cooking_time": 15
+  },
+  {
+    "chef_id": 1002,
+    "recipe_img": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-01-1024x683.jpg",
+    "recipe_name": "Sorsa Elish",
+    "ingredients": [
+      "linguine",
+      "shrimp",
+      "tomatoes",
+      "garlic",
+      "red pepper flakes"
+    ],
+    "cooking_method": "1. Cook linguine according to package instructions. 2. Heat olive oil in a pan and cook garlic until fragrant. 3. Add tomatoes and red pepper flakes and cook until tomatoes break down. 4. Add shrimp and cook until pink. 5. Toss linguine with the shrimp and tomato sauce.",
+    "rating": 4.6,
+    "serving_size": 4,
+    "cooking_time": 30
+  },
+  {
+    "chef_id": 1002,
+    "recipe_img": "https://bigseventravel.com/wp-content/uploads/2020/07/Screenshot-2020-07-21-at-09.48.26.png",
+    "recipe_name": "Vegetable Fried Rice",
+    "ingredients": ["rice", "carrots", "peas", "corn", "soy sauce"],
+    "cooking_method": "1. Cook rice according to package instructions. 2. Dice carrots into small pieces. 3. Add peas and corn to the pan with the carrots and cook until tender. 4. Add rice to the pan and stir fry until heated through. 5. Add soy sauce and stir fry for another minute.",
+    "rating": 4.0,
+    "serving_size": 4,
+    "cooking_time": 25
+  },
+  {
+    "chef_id": 1002,
+    "recipe_img": "https://www.munshiabid.com/wp-content/uploads/2019/07/beef-kala-bhuna.jpg",
+    "recipe_name": "Roasted Chicken and Vegetables",
+    "ingredients": [
+      "chicken thighs",
+      "potatoes",
+      "carrots",
+      "green beans",
+      "garlic"
+    ],
+    "cooking_method": "1. Preheat oven to 425°F. 2. Cut potatoes and carrots into bite-sized pieces. 3. Spread vegetables and garlic on a baking sheet. 4. Season chicken thighs with salt and pepper and place on top of vegetables. 5. Roast for 35-40 minutes or until chicken is cooked through.",
+    "rating": 4.4,
+    "serving_size": 4,
+    "cooking_time": 45
+  },
+  {
+    "chef_id": 1003,
+    "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTto8-bq6Vxm_LSpw3NguRuxhebFQHkV17aVa-4hTjWHVFqBYFsgSY2C-KqrU_00MRAmww&usqp=CAU",
+    "recipe_name": "Pesto Pasta",
+    "ingredients": ["pasta", "basil", "garlic", "pine nuts", "parmesan cheese"],
+    "cooking_method": "1. Cook pasta according to package instructions. 2. Blend basil, garlic, pine nuts, and parmesan cheese in a food processor until smooth. 3. Toss pasta with pesto sauce.",
+    "rating": 4.9,
+    "serving_size": 4,
+    "cooking_time": 20
+  },
+  {
+    "chef_id": 1003,
+    "recipe_img": "https://st.depositphotos.com/1859627/3314/i/450/depositphotos_33146863-stock-photo-mutton-byriani.jpg",
+    "recipe_name": "Beef Tacos",
+    "ingredients": [
+      "beef",
+      "taco shells",
+      "lettuce",
+      "tomatoes",
+      "cheddar cheese"
+    ],
+    "cooking_method": "1. Brown beef in a pan. 2. Add taco seasoning and cook until beef is fully cooked. 3. Heat taco shells in the oven. 4. Chop lettuce and tomatoes. 5. Assemble tacos with beef, lettuce, tomatoes, and cheddar cheese.",
+    "rating": 4.3,
+    "serving_size": 4,
+    "cooking_time": 30
+  },
+  {
+    "chef_id": 1003,
+    "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDlgSnMY9LJsmgoojbOFVNf8kkxi3_t5ajA&usqp=CAU",
+    "recipe_name": "Tomato Soup",
+    "ingredients": ["tomatoes", "onions", "garlic", "vegetable broth", "cream"],
+    "cooking_method": "1. Cook onions and garlic until soft. 2. Add chopped tomatoes and cook until they break down. 3. Add vegetable broth and simmer for 20 minutes. 4. Blend soup in a blender until smooth. 5. Stir in cream and heat until warm.",
+    "rating": 4.7,
+    "serving_size": 4,
+    "cooking_time": 40
+  },
+  {
+    "chef_id": 1004,
+    "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-4DVtWohSv1tgYTvui8nkKC4WF6K_o2oueX_J2DyUf1_ylUxSku4gC0ciAENS5RvglfM&usqp=CAU",
+    "recipe_name": "Lemon Garlic Shrimp",
+    "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
+    "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
+    "rating": 4.1,
+    "serving_size": 4,
+    "cooking_time": 15
+  },
+  {
+    "chef_id": 1004,
+    "recipe_img": "https://www.munshiabid.com/wp-content/uploads/2019/07/beef-kala-bhuna.jpg",
+    "recipe_name": "Lemon Garlic Shrimp",
+    "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
+    "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
+    "rating": 4.1,
+    "serving_size": 4,
+    "cooking_time": 15 
+  },
+  {
+    "chef_id": 1004,
+    "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTto8-bq6Vxm_LSpw3NguRuxhebFQHkV17aVa-4hTjWHVFqBYFsgSY2C-KqrU_00MRAmww&usqp=CAU",
+    "recipe_name": "Lemon Garlic Shrimp",
+    "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
+    "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
+    "rating": 4.1,
+    "serving_size": 4,
+    "cooking_time": 15
+  },
+  {
+    "chef_id": 1005,
+    "recipe_img": "https://st.depositphotos.com/1859627/3314/i/450/depositphotos_33146863-stock-photo-mutton-byriani.jpg",
+    "recipe_name": "Lemon Garlic Shrimp",
+    "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
+    "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
+    "rating": 4.1,
+    "serving_size": 4,
+    "cooking_time": 15
+  },
+  {
+    "chef_id": 1005,
+    "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDlgSnMY9LJsmgoojbOFVNf8kkxi3_t5ajA&usqp=CAU",
+    "recipe_name": "Lemon Garlic Shrimp",
+    "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
+    "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
+    "rating": 4.1,
+    "serving_size": 4,
+    "cooking_time": 15
+  },
+  {
+    "chef_id": 1005,
+    "recipe_img": "https://qph.cf2.quoracdn.net/main-qimg-16f1885ff451836e025b6a513a0d9c1a.webp",
+    "recipe_name": "Lemon Garlic Shrimp",
+    "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
+    "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
+    "rating": 4.1,
+    "serving_size": 4,
+    "cooking_time": 15
+  },
+  {
+    "chef_id": 1006,
+    "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkHaJIvmMIDscjOsnbB4IBYb5U3Dp8J5r0fyZ5aO0xn06tBk4z8y6x3GUEnuc08ERt30g&usqp=CAU",
+    "recipe_name": "Lemon Garlic Shrimp",
+    "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
+    "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
+    "rating": 4.1,
+    "serving_size": 4,
+    "cooking_time": 15
+  },
+  {
+    "chef_id": 1006,
+    "recipe_img": "https://www.munshiabid.com/wp-content/uploads/2019/07/beef-kala-bhuna.jpg",
+    "recipe_name": "Lemon Garlic Shrimp",
+    "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
+    "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
+    "rating": 4.1,
+    "serving_size": 4,
+    "cooking_time": 15
+  },
+  {
+    "chef_id": 1006,
+    "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTto8-bq6Vxm_LSpw3NguRuxhebFQHkV17aVa-4hTjWHVFqBYFsgSY2C-KqrU_00MRAmww&usqp=CAU",
+    "recipe_name": "Lemon Garlic Shrimp",
+    "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
+    "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
+    "rating": 4.1,
+    "serving_size": 4,
+    "cooking_time": 15
+  },
+  {
+    "chef_id": 1007,
+    "recipe_img": "https://www.chefspencil.com/wp-content/uploads/Haleem-960x960.jpg",
+    "recipe_name": "Haleem",
+    "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
+    "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
+    "rating": 4.1,
+    "serving_size": 4,
+    "cooking_time": 15
+  },
+  {
+    "chef_id": 1007,
+    "recipe_img": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-01-1024x683.jpg",
+    "recipe_name": "Lemon Garlic Shrimp",
+    "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
+    "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
+    "rating": 4.1,
+    "serving_size": 4,
+    "cooking_time": 15
+  },
+  {
+    "chef_id": 1007,
+    "recipe_img": "https://bigseventravel.com/wp-content/uploads/2020/07/Screenshot-2020-07-21-at-09.48.26.png",
+    "recipe_name": "Lemon Garlic Shrimp",
+    "ingredients": ["shrimp", "lemon", "garlic", "butter", "parsley"],
+    "cooking_method": "1. Melt butter in a pan. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze lemon over the shrimp. 5. Top with chopped parsley.",
+    "rating": 4.1,
+    "serving_size": 4,
+    "cooking_time": 15
+  }
+]
