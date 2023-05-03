@@ -15,7 +15,7 @@
       "years_of_experience": 12,
       "num_recipes": 128,
       "likes": 45000,
-      "short_bio": "Juan Rodriguez is a Mexican chef who draws inspiration from his mother's cooking. He has worked at several high-end restaurants in Mexico City and now owns a popular taqueria in Los Angeles."
+      "short_bio": "Juan Saha is a Mexican chef who draws inspiration from his mother's cooking. He has worked at several high-end restaurants in Mexico City and now owns a popular taqueria in Los Angeles."
     },
     {
       "chef_id": 1003,
@@ -24,7 +24,7 @@
       "years_of_experience": 6,
       "num_recipes": 40,
       "likes": 12000,
-      "short_bio": "Emily Chen is a Chinese-American chef who specializes in fusion cuisine. She has worked in some of the top restaurants in San Francisco and now runs her own pop-up restaurant."
+      "short_bio": "Ema chyd is a Chinese-American chef who specializes in fusion cuisine. She has worked in some of the top restaurants in San Francisco and now runs her own pop-up restaurant."
     },
     {
       "chef_id": 1004,
@@ -42,7 +42,7 @@
       "years_of_experience": 10,
       "num_recipes": 75,
       "likes": 32000,
-      "short_bio": "Grace Kim is a Korean-American chef who specializes in Korean fusion cuisine. She has worked at some of the top restaurants in Los Angeles and now runs her own food truck."
+      "short_bio": "Md Mahbubul Alom is a Korean-American chef who specializes in Korean fusion cuisine. She has worked at some of the top restaurants in Los Angeles and now runs her own food truck."
     },
     {
       "chef_id": 1006,
@@ -51,7 +51,7 @@
       "years_of_experience": 9,
       "num_recipes": 56,
       "likes": 18000,
-      "short_bio": "Carlos Gonzalez is a Mexican chef who specializes in regional cuisine from Oaxaca. He has worked at several top restaurants in Mexico and now owns a popular Mexican restaurant in Chicago."
+      "short_bio": "Md. Mahadi Hasan is a Mexican chef who specializes in regional cuisine from Oaxaca. He has worked at several top restaurants in Mexico and now owns a popular Mexican restaurant in Chicago."
     },
     {
       "chef_id": 1007,
@@ -60,7 +60,7 @@
       "years_of_experience": 11,
       "num_recipes": 87,
       "likes": 54000,
-      "short_bio": "Anna Lee is a Korean chef who is passionate about traditional Korean cuisine. She has worked at some of the top restaurants in Seoul and now owns a popular Korean restaurant in New York City."
+      "short_bio": "Md Bariul Islam is a Korean chef who is passionate about traditional Korean cuisine. She has worked at some of the top restaurants in Seoul and now owns a popular Korean restaurant in New York City."
     }
     
     ]
